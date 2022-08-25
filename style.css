@@ -1,0 +1,35 @@
+body {background: #cccccc;}
+
+
+#foto {width: 100%;
+
+}
+	#h1{
+		text-align: center ;
+	}
+
+p {
+	text-align: center ;
+}
+
+#beneficios { 
+	font-size: 20pix
+}
+ul{
+	display: inline-block;
+vertical-align: top;
+width: 20%;
+margin-right: 15%;
+}
+em strong{
+	color: #ff0000;}
+
+.itens{
+	font-style: italic 
+}
+.beneficios{
+	background:#ffffff;padding: 20px;
+}
+.imagembeneficios{ inlineblock;
+	width: 250px;
+}
